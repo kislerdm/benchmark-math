@@ -31,7 +31,8 @@ func main() {
 	for i := 0; i < length; i++ {
 		output[i] = float64(input[i] * 2.)
 	}
-	fmt.Println("Multiplication by 2:", time.Since(t0))
+	t := time.Since(t0)
+	fmt.Println("Multiplication by 2:", t)
 
 	// sum
 	t0 = time.Now()
@@ -42,27 +43,30 @@ func main() {
 			output[i] = float64(input[i] + input[i+1])
 		}
 	}
-	fmt.Println("Sum:", time.Since(t0))
+	t = time.Since(t0)
+	fmt.Println("Sum:", t)
 
 	// power
 	t0 = time.Now()
 	for i := 0; i < length; i++ {
 		output[i] = math.Pow(float64(input[i]), 2.)
 	}
-	fmt.Println("Power of 2:", time.Since(t0))
+	t = time.Since(t0)
+	fmt.Println("Power of 2:", t)
 
 	// sigmoid
 	t0 = time.Now()
 	for i := 0; i < length; i++ {
 		output[i] = sigmoid(float64(input[i]))
 	}
-	fmt.Println("Sigmoid:", time.Since(t0))
+	t = time.Since(t0)
+	fmt.Println("Sigmoid:", t)
 
 	// sigmoid
 	t0 = time.Now()
 	for i := 0; i < length; i++ {
 		output[i] = tanh(float64(input[i]))
 	}
-	fmt.Println("Tanh:", time.Since(t0))
-
+	t = time.Since(t0)
+	fmt.Println("Tanh:", t)
 }

@@ -29,8 +29,8 @@ int main() {
   for (int32_t i = 0; i < length; i++) {
     output[i] = input[i] * 2.0;
   }
-  cout << "Multiplication by 2: "
-       << duration<double, milli>(high_resolution_clock::now() - t0).count() << "ms" << endl;
+  double t = duration<double, std::milli>(high_resolution_clock::now() - t0).count();
+  cout << "Multiplication by 2: " << t << "ms" << endl;
 
   // sum
   t0 = high_resolution_clock::now();
@@ -41,32 +41,32 @@ int main() {
       output[i] = float(input[i] + input[i+1]);
     }
   }
-  cout << "Sum: "
-       << duration<double, std::milli>(high_resolution_clock::now() - t0).count() << "ms" << endl;
+  t = duration<double, std::milli>(high_resolution_clock::now() - t0).count();
+  cout << "Sum: " << t << "ms" << endl;
 
   // power
   t0 = high_resolution_clock::now();
   for (int32_t i = 0; i < length; i++) {
     output[i] = pow(float(input[i]), 2);
   }
-  cout << "Power of 2: "
-       << duration<double, std::milli>(high_resolution_clock::now() - t0).count() << "ms" << endl;
+  t = duration<double, std::milli>(high_resolution_clock::now() - t0).count();
+  cout << "Power of 2: " << t << "ms" << endl;
 
   // sigmoid
   t0 = high_resolution_clock::now();
   for (int32_t i = 0; i < length; i++) {
     output[i] = sigmoid(input[i]);
   }
-  cout << "Sigmoid: "
-       << duration<double, std::milli>(high_resolution_clock::now() - t0).count() << "ms" << endl;    
+  t = duration<double, std::milli>(high_resolution_clock::now() - t0).count();
+  cout << "Sigmoid: " << t << "ms" << endl;    
 
   // tanh
   t0 = high_resolution_clock::now();
   for (int32_t i = 0; i < length; i++) {
     output[i] = tanh(input[i]);
   }
-  cout << "Tanh: "
-       << duration<double, std::milli>(high_resolution_clock::now() - t0).count() << "ms" << endl;    
+  t = duration<double, std::milli>(high_resolution_clock::now() - t0).count();
+  cout << "Tanh: " << t << "ms" << endl;    
 
   return 0;
 }

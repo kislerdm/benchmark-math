@@ -29,19 +29,23 @@ if __name__ == "__main__":
     t0 = time.time()
     output = input[:-1] + input[1:]
     output = np.append(output, input[-1] + input[0])
-    print(f"Sum: {(time.time() - t0)*1e3}ms")
+    t = (time.time() - t0) * 1e3
+    print(f"Sum: {t}ms")
 
     # power
     t0 = time.time()
     output = np.power(input, 2)
-    print(f"Power of 2: {(time.time() - t0)*1e3}ms")
+    t = (time.time() - t0) * 1e3
+    print(f"Power of 2: {t}ms")
     
     # sigmoid
     t0 = time.time()
     output = sigmoid(input)
-    print(f"Sigmoid: {(time.time() - t0)*1e3}ms")
+    t = (time.time() - t0) * 1e3
+    print(f"Sigmoid: {t}ms")
 
     # tanh
     t0 = time.time()
     output = tanh(input)
-    print(f"Tanh: {(time.time() - t0)*1e3}ms")
+    t = (time.time() - t0) * 1e3
+    print(f"Tanh: {t}ms")

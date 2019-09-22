@@ -24,25 +24,30 @@ if __name__ == "__main__":
     # multiplication
     t0 = time.time()
     output = [i * 2. for i in input]
-    print(f"Multiplication by 2: {(time.time() - t0)*1e3}ms")
+    t = (time.time() - t0) * 1e3
+    print(f"Multiplication by 2: {t}ms")
 
     # sum
     t0 = time.time()
     output = input[:-1] + input[1:]
     output.append(input[-1] + input[0])
-    print(f"Sum: {(time.time() - t0)*1e3}ms")
+    t = (time.time() - t0) * 1e3
+    print(f"Sum: {t}ms")
 
     # power
     t0 = time.time()
     output = [pow(i, 2) for i in input]
-    print(f"Power of 2: {(time.time() - t0)*1e3}ms")
+    t = (time.time() - t0) * 1e3
+    print(f"Power of 2: {t}ms")
 
     # sigmoid
     t0 = time.time()
     output = [sigmoid(i) for i in input]
-    print(f"Sigmoid: {(time.time() - t0)*1e3}ms")
+    t = (time.time() - t0) * 1e3
+    print(f"Sigmoid: {t}ms")
 
     # tanh
     t0 = time.time()
     output = [tanh(i) for i in input]
-    print(f"Tanh: {(time.time() - t0)*1e3}ms")
+    t = (time.time() - t0) * 1e3
+    print(f"Tanh: {t}ms")

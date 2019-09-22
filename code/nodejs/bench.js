@@ -37,25 +37,29 @@ for (var i = 0; i < length; i++) {
     output[i] = input[i] + input[i+1]
   }
 }
-console.log("Sum: %dms", process.hrtime(t0)[1] / 1000000)
+var t = process.hrtime(t0)[1] / 1000000
+console.log("Sum: %dms", t)
 
 // power
 t0 = new process.hrtime();
 for (var i = 0; i < length; i++) {
     output[i] = Math.pow(input[i], 2)
 }
-console.log("Power of 2: %dms", process.hrtime(t0)[1] / 1000000)
+t = process.hrtime(t0)[1] / 1000000
+console.log("Power of 2: %dms", t)
 
 // sigmoid
 t0 = new process.hrtime();
 for (var i = 0; i < length; i++) {
   output[i] = sigmoid(input[i])
 }
-console.log("Sigmoid: %dms", process.hrtime(t0)[1] / 1000000)
+t = process.hrtime(t0)[1] / 1000000
+console.log("Sigmoid: %dms", t)
 
 // tanh
 t0 = new process.hrtime();
 for (var i = 0; i < length; i++) {
   output[i] = tanh(input[i])
 }
-console.log("Tanh: %dms", process.hrtime(t0)[1] / 1000000)
+t = process.hrtime(t0)[1] / 1000000
+console.log("Tanh: %dms", t)
