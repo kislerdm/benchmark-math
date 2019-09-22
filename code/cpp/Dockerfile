@@ -18,4 +18,4 @@ ENV REP=100
 
 COPY --from=build /runner /runner
 
-CMD i=0; while [ $i -lt 2 ]; do if [ $i -eq 0 ]; then ./runner > /data/cpp.txt; else ./runner >> /data/cpp.txt; fi; i=$(($i+1)); done
+CMD i=0; while [ $i -lt ${REP} ]; do if [ $i -eq 0 ]; then ./runner > /data/cpp.txt; else ./runner >> /data/cpp.txt; fi; i=$(($i+1)); done
