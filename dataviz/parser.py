@@ -52,8 +52,13 @@ if __name__ == "__main__":
     output = {}
     
     for file in files:
-        with open(os.path.join(PATH_RESULTS, file), 'r') as f:
-            data = f.read()
+        try:
+          with open(os.path.join(PATH_RESULTS, file), 'r') as f:
+              data = f.read()
+              
+        except Exception as e:
+          print(f"Cannot read {file}. Error:\n{e}")
+          continue
 
         key = ''.join(file.split('.txt')[:-1])
 
