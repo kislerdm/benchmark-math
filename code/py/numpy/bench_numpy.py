@@ -23,7 +23,8 @@ if __name__ == "__main__":
     # multiplication
     t0 = time.time()
     output = np.multiply(input, 2)
-    print(f"Multiplication by 2: {(time.time() - t0)*1e3}ms")
+    t = (time.time() - t0) * 1e3
+    print(f"Multiplication by 2: {t}ms")
 
     # sum
     t0 = time.time()
