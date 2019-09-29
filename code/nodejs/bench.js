@@ -26,7 +26,8 @@ var t0 = new process.hrtime();
 for (var i = 0; i < length; i++) {
   output[i] = input[i] * 2.
 }
-console.log("Multiplication by 2: %dms", process.hrtime(t0)[1] / 1000000)
+var t = process.hrtime(t0)[1] / 1000000
+console.log("Multiplication by 2: %dms", t)
 
 // sum
 t0 = new process.hrtime();
@@ -37,7 +38,7 @@ for (var i = 0; i < length; i++) {
     output[i] = input[i] + input[i+1]
   }
 }
-var t = process.hrtime(t0)[1] / 1000000
+t = process.hrtime(t0)[1] / 1000000
 console.log("Sum: %dms", t)
 
 // power
