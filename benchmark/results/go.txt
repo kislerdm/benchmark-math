@@ -1,500 +1,500 @@
-Multiplication by 2: 5.059172ms
-Sum: 2.063632ms
-Power of 2: 44.597347ms
-Sigmoid: 19.37283ms
-Tanh: 52.359889ms
-Multiplication by 2: 1.45506ms
-Sum: 1.530023ms
-Power of 2: 44.944885ms
-Sigmoid: 18.937021ms
-Tanh: 51.330438ms
-Multiplication by 2: 5.13403ms
-Sum: 1.573944ms
-Power of 2: 44.883118ms
-Sigmoid: 19.035146ms
-Tanh: 51.739751ms
-Multiplication by 2: 4.849671ms
-Sum: 1.598461ms
-Power of 2: 44.377714ms
-Sigmoid: 18.95762ms
-Tanh: 51.119821ms
-Multiplication by 2: 4.699528ms
-Sum: 1.588802ms
-Power of 2: 44.825508ms
-Sigmoid: 19.693254ms
-Tanh: 51.816184ms
-Multiplication by 2: 4.796642ms
-Sum: 1.718416ms
-Power of 2: 44.402527ms
-Sigmoid: 19.357121ms
-Tanh: 51.719324ms
-Multiplication by 2: 4.755952ms
-Sum: 2.086344ms
-Power of 2: 43.988255ms
-Sigmoid: 19.093033ms
-Tanh: 52.488351ms
-Multiplication by 2: 5.05698ms
-Sum: 1.585846ms
-Power of 2: 44.853965ms
-Sigmoid: 19.254322ms
-Tanh: 51.388327ms
-Multiplication by 2: 5.006988ms
-Sum: 1.591763ms
-Power of 2: 44.718819ms
-Sigmoid: 18.853046ms
-Tanh: 51.666339ms
-Multiplication by 2: 4.783726ms
-Sum: 1.59566ms
-Power of 2: 44.292374ms
-Sigmoid: 18.941572ms
-Tanh: 51.008737ms
-Multiplication by 2: 4.726033ms
-Sum: 1.668162ms
-Power of 2: 44.309712ms
-Sigmoid: 18.990915ms
-Tanh: 50.998645ms
-Multiplication by 2: 4.981068ms
-Sum: 1.621473ms
-Power of 2: 43.866907ms
-Sigmoid: 18.810323ms
-Tanh: 54.008577ms
-Multiplication by 2: 1.46624ms
-Sum: 1.604424ms
-Power of 2: 44.384742ms
-Sigmoid: 18.881006ms
-Tanh: 51.459799ms
-Multiplication by 2: 4.845664ms
-Sum: 1.583039ms
-Power of 2: 44.782379ms
-Sigmoid: 18.937927ms
-Tanh: 51.212988ms
-Multiplication by 2: 4.886753ms
-Sum: 1.715832ms
-Power of 2: 44.048951ms
-Sigmoid: 18.833005ms
-Tanh: 51.623747ms
-Multiplication by 2: 1.435469ms
-Sum: 1.535007ms
-Power of 2: 44.002541ms
-Sigmoid: 18.834649ms
-Tanh: 51.448456ms
-Multiplication by 2: 4.887213ms
-Sum: 1.588938ms
-Power of 2: 44.242831ms
-Sigmoid: 19.093496ms
-Tanh: 51.11016ms
-Multiplication by 2: 4.780116ms
-Sum: 1.559098ms
-Power of 2: 44.075531ms
-Sigmoid: 18.982961ms
-Tanh: 51.822966ms
-Multiplication by 2: 1.55509ms
-Sum: 1.862407ms
-Power of 2: 46.534407ms
-Sigmoid: 19.019086ms
-Tanh: 51.327134ms
-Multiplication by 2: 5.897443ms
-Sum: 1.588107ms
-Power of 2: 44.301123ms
-Sigmoid: 19.173143ms
-Tanh: 51.51433ms
-Multiplication by 2: 5.042741ms
-Sum: 1.58206ms
-Power of 2: 43.793915ms
-Sigmoid: 19.137628ms
-Tanh: 52.001758ms
-Multiplication by 2: 5.143037ms
-Sum: 1.571112ms
-Power of 2: 43.894668ms
-Sigmoid: 19.003134ms
-Tanh: 51.085967ms
-Multiplication by 2: 5.471499ms
-Sum: 1.582343ms
-Power of 2: 44.05364ms
-Sigmoid: 18.745445ms
-Tanh: 51.045357ms
-Multiplication by 2: 1.439849ms
-Sum: 1.513028ms
-Power of 2: 44.233138ms
-Sigmoid: 19.107208ms
-Tanh: 51.667107ms
-Multiplication by 2: 1.433198ms
-Sum: 1.566258ms
-Power of 2: 44.473114ms
-Sigmoid: 18.768748ms
-Tanh: 51.627173ms
-Multiplication by 2: 5.699031ms
-Sum: 1.696885ms
-Power of 2: 47.067284ms
-Sigmoid: 18.894326ms
-Tanh: 51.096957ms
-Multiplication by 2: 4.847499ms
-Sum: 1.587068ms
-Power of 2: 44.30353ms
-Sigmoid: 19.265309ms
-Tanh: 51.269057ms
-Multiplication by 2: 4.801789ms
-Sum: 1.871093ms
-Power of 2: 43.945275ms
-Sigmoid: 18.897323ms
-Tanh: 51.795354ms
-Multiplication by 2: 4.870105ms
-Sum: 1.61842ms
-Power of 2: 44.3255ms
-Sigmoid: 19.025672ms
-Tanh: 51.126312ms
-Multiplication by 2: 5.056468ms
-Sum: 1.586272ms
-Power of 2: 44.14266ms
-Sigmoid: 19.153261ms
-Tanh: 51.956211ms
-Multiplication by 2: 5.057318ms
-Sum: 1.584296ms
-Power of 2: 45.078619ms
-Sigmoid: 18.963772ms
-Tanh: 51.249039ms
-Multiplication by 2: 1.448418ms
-Sum: 1.514544ms
-Power of 2: 44.108198ms
-Sigmoid: 19.135375ms
-Tanh: 51.226828ms
-Multiplication by 2: 5.047165ms
-Sum: 1.589299ms
-Power of 2: 43.9352ms
-Sigmoid: 19.299886ms
-Tanh: 51.571437ms
-Multiplication by 2: 4.840577ms
-Sum: 1.586763ms
-Power of 2: 44.118131ms
-Sigmoid: 19.08431ms
-Tanh: 51.378656ms
-Multiplication by 2: 4.747599ms
-Sum: 1.569184ms
-Power of 2: 44.310682ms
-Sigmoid: 18.799899ms
-Tanh: 51.144059ms
-Multiplication by 2: 1.445498ms
-Sum: 1.595623ms
-Power of 2: 44.612933ms
-Sigmoid: 19.021116ms
-Tanh: 52.286655ms
-Multiplication by 2: 1.45592ms
-Sum: 1.645829ms
-Power of 2: 44.041159ms
-Sigmoid: 19.849642ms
-Tanh: 51.220785ms
-Multiplication by 2: 4.940087ms
-Sum: 1.580966ms
-Power of 2: 44.487844ms
-Sigmoid: 19.019897ms
-Tanh: 51.046621ms
-Multiplication by 2: 4.989635ms
-Sum: 1.751596ms
-Power of 2: 44.677088ms
-Sigmoid: 18.901823ms
-Tanh: 51.677438ms
-Multiplication by 2: 4.794517ms
-Sum: 1.600478ms
-Power of 2: 44.227757ms
-Sigmoid: 18.851336ms
-Tanh: 51.497727ms
-Multiplication by 2: 4.755892ms
-Sum: 1.57419ms
-Power of 2: 43.90313ms
-Sigmoid: 18.799142ms
-Tanh: 51.13526ms
-Multiplication by 2: 4.732193ms
-Sum: 1.58461ms
-Power of 2: 44.846833ms
-Sigmoid: 18.933962ms
-Tanh: 51.813348ms
-Multiplication by 2: 1.437091ms
-Sum: 1.946451ms
-Power of 2: 43.951177ms
-Sigmoid: 18.972129ms
-Tanh: 51.252652ms
-Multiplication by 2: 4.925089ms
-Sum: 1.595968ms
-Power of 2: 44.126316ms
-Sigmoid: 18.862596ms
-Tanh: 51.78135ms
-Multiplication by 2: 1.439351ms
-Sum: 1.520804ms
-Power of 2: 44.349934ms
-Sigmoid: 19.318644ms
-Tanh: 51.218718ms
-Multiplication by 2: 5.030601ms
-Sum: 1.57304ms
-Power of 2: 43.837297ms
-Sigmoid: 19.236588ms
-Tanh: 51.451571ms
-Multiplication by 2: 4.814554ms
-Sum: 1.957264ms
-Power of 2: 44.506083ms
-Sigmoid: 20.629519ms
-Tanh: 54.218128ms
-Multiplication by 2: 4.550411ms
-Sum: 1.73361ms
-Power of 2: 44.687201ms
-Sigmoid: 19.274057ms
-Tanh: 51.322442ms
-Multiplication by 2: 4.745583ms
-Sum: 1.59642ms
-Power of 2: 44.655815ms
-Sigmoid: 19.152716ms
-Tanh: 51.360885ms
-Multiplication by 2: 4.794078ms
-Sum: 1.584523ms
-Power of 2: 44.06874ms
-Sigmoid: 18.804784ms
-Tanh: 51.587451ms
-Multiplication by 2: 4.78375ms
-Sum: 1.601525ms
-Power of 2: 44.669083ms
-Sigmoid: 19.180069ms
-Tanh: 51.289644ms
-Multiplication by 2: 4.653154ms
-Sum: 1.611019ms
-Power of 2: 44.010739ms
-Sigmoid: 18.819298ms
-Tanh: 51.481072ms
-Multiplication by 2: 4.815597ms
-Sum: 1.640717ms
-Power of 2: 44.266531ms
-Sigmoid: 18.858514ms
-Tanh: 51.177913ms
-Multiplication by 2: 1.451728ms
-Sum: 2.250868ms
-Power of 2: 44.588448ms
-Sigmoid: 18.983432ms
-Tanh: 51.563113ms
-Multiplication by 2: 5.378459ms
-Sum: 1.606914ms
-Power of 2: 44.096853ms
-Sigmoid: 18.945247ms
-Tanh: 52.046716ms
-Multiplication by 2: 5.141442ms
-Sum: 1.575744ms
-Power of 2: 44.347908ms
-Sigmoid: 18.979051ms
-Tanh: 50.975004ms
-Multiplication by 2: 1.44304ms
-Sum: 1.530524ms
-Power of 2: 44.03492ms
-Sigmoid: 19.474432ms
-Tanh: 51.253932ms
-Multiplication by 2: 1.482931ms
-Sum: 1.519556ms
-Power of 2: 43.876925ms
-Sigmoid: 19.219918ms
-Tanh: 51.143357ms
-Multiplication by 2: 4.800938ms
-Sum: 1.588018ms
-Power of 2: 44.163729ms
-Sigmoid: 18.870597ms
-Tanh: 51.382549ms
-Multiplication by 2: 4.881534ms
-Sum: 1.576467ms
-Power of 2: 44.396423ms
-Sigmoid: 18.926696ms
-Tanh: 53.164452ms
-Multiplication by 2: 4.840469ms
-Sum: 1.58579ms
-Power of 2: 44.982394ms
-Sigmoid: 18.79792ms
-Tanh: 51.563949ms
-Multiplication by 2: 1.443839ms
-Sum: 1.853648ms
-Power of 2: 44.958329ms
-Sigmoid: 19.003632ms
-Tanh: 52.529188ms
-Multiplication by 2: 5.016892ms
-Sum: 1.636915ms
-Power of 2: 44.438982ms
-Sigmoid: 19.185039ms
-Tanh: 52.177219ms
-Multiplication by 2: 5.043818ms
-Sum: 1.582985ms
-Power of 2: 44.041977ms
-Sigmoid: 19.273252ms
-Tanh: 69.557078ms
-Multiplication by 2: 4.652247ms
-Sum: 1.599495ms
-Power of 2: 44.144478ms
-Sigmoid: 18.85574ms
-Tanh: 51.317049ms
-Multiplication by 2: 4.964278ms
-Sum: 1.995659ms
-Power of 2: 44.115545ms
-Sigmoid: 18.946542ms
-Tanh: 52.118812ms
-Multiplication by 2: 1.452358ms
-Sum: 1.594321ms
-Power of 2: 43.838559ms
-Sigmoid: 19.308178ms
-Tanh: 51.821422ms
-Multiplication by 2: 1.461455ms
-Sum: 1.530629ms
-Power of 2: 44.416022ms
-Sigmoid: 19.026655ms
-Tanh: 51.2891ms
-Multiplication by 2: 1.779082ms
-Sum: 1.904904ms
-Power of 2: 44.109709ms
-Sigmoid: 18.891107ms
-Tanh: 51.14452ms
-Multiplication by 2: 4.765821ms
-Sum: 1.906773ms
-Power of 2: 43.888024ms
-Sigmoid: 18.864378ms
-Tanh: 51.697867ms
-Multiplication by 2: 5.011452ms
-Sum: 1.585548ms
-Power of 2: 43.948947ms
-Sigmoid: 18.952118ms
-Tanh: 52.067853ms
-Multiplication by 2: 1.444652ms
-Sum: 1.519461ms
-Power of 2: 44.237122ms
-Sigmoid: 19.199276ms
-Tanh: 54.961911ms
-Multiplication by 2: 4.964749ms
-Sum: 1.59947ms
-Power of 2: 44.607739ms
-Sigmoid: 18.86606ms
-Tanh: 51.943677ms
-Multiplication by 2: 1.438814ms
-Sum: 1.547778ms
-Power of 2: 44.107469ms
-Sigmoid: 18.984499ms
-Tanh: 51.422819ms
-Multiplication by 2: 4.712996ms
-Sum: 1.621767ms
-Power of 2: 44.351071ms
-Sigmoid: 18.880227ms
-Tanh: 51.095214ms
-Multiplication by 2: 4.886386ms
-Sum: 1.609429ms
-Power of 2: 44.172057ms
-Sigmoid: 18.897692ms
-Tanh: 51.590025ms
-Multiplication by 2: 4.74958ms
-Sum: 1.582435ms
-Power of 2: 44.266394ms
-Sigmoid: 18.906274ms
-Tanh: 51.464846ms
-Multiplication by 2: 4.597746ms
-Sum: 1.586615ms
-Power of 2: 44.684491ms
-Sigmoid: 18.957099ms
-Tanh: 53.507559ms
-Multiplication by 2: 4.541404ms
-Sum: 1.648619ms
-Power of 2: 44.73496ms
-Sigmoid: 18.980272ms
-Tanh: 51.873784ms
-Multiplication by 2: 4.830673ms
-Sum: 1.95016ms
-Power of 2: 43.719151ms
-Sigmoid: 19.031665ms
-Tanh: 51.489589ms
-Multiplication by 2: 4.784236ms
-Sum: 1.668172ms
-Power of 2: 44.257347ms
-Sigmoid: 19.132383ms
-Tanh: 51.976915ms
-Multiplication by 2: 4.967916ms
-Sum: 1.587166ms
-Power of 2: 44.104859ms
-Sigmoid: 18.870552ms
-Tanh: 51.991038ms
-Multiplication by 2: 5.013459ms
-Sum: 1.579878ms
-Power of 2: 44.009321ms
-Sigmoid: 18.906374ms
-Tanh: 51.643297ms
-Multiplication by 2: 4.997894ms
-Sum: 1.569454ms
-Power of 2: 43.888178ms
-Sigmoid: 19.564669ms
-Tanh: 51.352142ms
-Multiplication by 2: 4.926838ms
-Sum: 1.587841ms
-Power of 2: 44.300675ms
-Sigmoid: 19.200871ms
-Tanh: 51.826572ms
-Multiplication by 2: 5.109243ms
-Sum: 1.590435ms
-Power of 2: 44.448785ms
-Sigmoid: 18.758889ms
-Tanh: 51.257937ms
-Multiplication by 2: 4.996492ms
-Sum: 1.57831ms
-Power of 2: 44.449802ms
-Sigmoid: 18.973941ms
-Tanh: 51.147742ms
-Multiplication by 2: 1.422982ms
-Sum: 1.524282ms
-Power of 2: 44.802107ms
-Sigmoid: 19.063927ms
-Tanh: 52.06472ms
-Multiplication by 2: 4.656942ms
-Sum: 1.58574ms
-Power of 2: 44.282239ms
-Sigmoid: 18.8867ms
-Tanh: 52.012803ms
-Multiplication by 2: 4.880498ms
-Sum: 1.629942ms
-Power of 2: 44.16977ms
-Sigmoid: 19.218545ms
-Tanh: 51.135707ms
-Multiplication by 2: 1.447556ms
-Sum: 1.535802ms
-Power of 2: 44.392816ms
-Sigmoid: 19.071568ms
-Tanh: 52.540644ms
-Multiplication by 2: 4.882126ms
-Sum: 1.591ms
-Power of 2: 44.219797ms
-Sigmoid: 18.987022ms
-Tanh: 51.809514ms
-Multiplication by 2: 1.46314ms
-Sum: 1.893127ms
-Power of 2: 44.246415ms
-Sigmoid: 18.980185ms
-Tanh: 51.491907ms
-Multiplication by 2: 4.796185ms
-Sum: 1.798328ms
-Power of 2: 44.145477ms
-Sigmoid: 18.935241ms
-Tanh: 57.448799ms
-Multiplication by 2: 4.795778ms
-Sum: 1.584341ms
-Power of 2: 44.455189ms
-Sigmoid: 19.091934ms
-Tanh: 52.581281ms
-Multiplication by 2: 1.496026ms
-Sum: 2.167569ms
-Power of 2: 45.229513ms
-Sigmoid: 19.152491ms
-Tanh: 52.14379ms
-Multiplication by 2: 5.259158ms
-Sum: 1.596168ms
-Power of 2: 44.398409ms
-Sigmoid: 19.714436ms
-Tanh: 57.048561ms
-Multiplication by 2: 4.780644ms
-Sum: 1.587386ms
-Power of 2: 44.351305ms
-Sigmoid: 19.262665ms
-Tanh: 51.583749ms
-Multiplication by 2: 1.716464ms
-Sum: 1.652285ms
-Power of 2: 44.404527ms
-Sigmoid: 19.113743ms
-Tanh: 51.253647ms
-Multiplication by 2: 1.485503ms
-Sum: 1.559082ms
-Power of 2: 44.564198ms
-Sigmoid: 20.115826ms
-Tanh: 51.281247ms
+Multiplication by 2: 7.085069ms
+Sum: 2.428556ms
+Power of 2: 52.062935ms
+Sigmoid: 23.062957ms
+Tanh: 34.242787ms
+Multiplication by 2: 6.917825ms
+Sum: 2.515107ms
+Power of 2: 51.983843ms
+Sigmoid: 23.113924ms
+Tanh: 34.191937ms
+Multiplication by 2: 6.94375ms
+Sum: 2.440214ms
+Power of 2: 51.51261ms
+Sigmoid: 22.952297ms
+Tanh: 34.72516ms
+Multiplication by 2: 6.977243ms
+Sum: 2.487119ms
+Power of 2: 51.77583ms
+Sigmoid: 22.919829ms
+Tanh: 34.161964ms
+Multiplication by 2: 6.98292ms
+Sum: 2.523939ms
+Power of 2: 56.576163ms
+Sigmoid: 22.857365ms
+Tanh: 34.009748ms
+Multiplication by 2: 6.97124ms
+Sum: 2.649367ms
+Power of 2: 52.319559ms
+Sigmoid: 23.181184ms
+Tanh: 34.414333ms
+Multiplication by 2: 6.925021ms
+Sum: 2.408502ms
+Power of 2: 51.54202ms
+Sigmoid: 22.839131ms
+Tanh: 34.288114ms
+Multiplication by 2: 6.990556ms
+Sum: 2.425212ms
+Power of 2: 51.910628ms
+Sigmoid: 22.880891ms
+Tanh: 34.240993ms
+Multiplication by 2: 6.957353ms
+Sum: 2.488148ms
+Power of 2: 51.64278ms
+Sigmoid: 23.033369ms
+Tanh: 34.220626ms
+Multiplication by 2: 6.926264ms
+Sum: 2.462846ms
+Power of 2: 51.64519ms
+Sigmoid: 22.910483ms
+Tanh: 34.598536ms
+Multiplication by 2: 7.193706ms
+Sum: 2.528811ms
+Power of 2: 51.997534ms
+Sigmoid: 22.866542ms
+Tanh: 34.106907ms
+Multiplication by 2: 13.485848ms
+Sum: 2.497916ms
+Power of 2: 52.190013ms
+Sigmoid: 23.143402ms
+Tanh: 34.285484ms
+Multiplication by 2: 6.978775ms
+Sum: 2.413181ms
+Power of 2: 51.555814ms
+Sigmoid: 23.101541ms
+Tanh: 34.251851ms
+Multiplication by 2: 7.113821ms
+Sum: 2.497187ms
+Power of 2: 51.531203ms
+Sigmoid: 22.87643ms
+Tanh: 34.521466ms
+Multiplication by 2: 7.030328ms
+Sum: 2.485591ms
+Power of 2: 51.858785ms
+Sigmoid: 22.98669ms
+Tanh: 34.37821ms
+Multiplication by 2: 7.030169ms
+Sum: 2.594323ms
+Power of 2: 51.48988ms
+Sigmoid: 23.270839ms
+Tanh: 34.241392ms
+Multiplication by 2: 7.069552ms
+Sum: 2.546323ms
+Power of 2: 51.408637ms
+Sigmoid: 22.890707ms
+Tanh: 35.123507ms
+Multiplication by 2: 14.131494ms
+Sum: 5.630336ms
+Power of 2: 56.236337ms
+Sigmoid: 23.117275ms
+Tanh: 34.71568ms
+Multiplication by 2: 7.086493ms
+Sum: 2.514534ms
+Power of 2: 51.961229ms
+Sigmoid: 23.002276ms
+Tanh: 34.307008ms
+Multiplication by 2: 7.085374ms
+Sum: 2.516545ms
+Power of 2: 51.519762ms
+Sigmoid: 23.012479ms
+Tanh: 34.159523ms
+Multiplication by 2: 7.026378ms
+Sum: 2.396033ms
+Power of 2: 51.56808ms
+Sigmoid: 22.912191ms
+Tanh: 34.361636ms
+Multiplication by 2: 6.999755ms
+Sum: 2.499752ms
+Power of 2: 52.213484ms
+Sigmoid: 23.263775ms
+Tanh: 34.329264ms
+Multiplication by 2: 7.096854ms
+Sum: 2.518598ms
+Power of 2: 51.94678ms
+Sigmoid: 23.419419ms
+Tanh: 34.851093ms
+Multiplication by 2: 7.011491ms
+Sum: 2.527677ms
+Power of 2: 71.404901ms
+Sigmoid: 23.268682ms
+Tanh: 34.655136ms
+Multiplication by 2: 7.05169ms
+Sum: 2.490577ms
+Power of 2: 51.700395ms
+Sigmoid: 22.918647ms
+Tanh: 34.636822ms
+Multiplication by 2: 7.071872ms
+Sum: 2.512934ms
+Power of 2: 51.583973ms
+Sigmoid: 22.928201ms
+Tanh: 34.23431ms
+Multiplication by 2: 6.979028ms
+Sum: 2.564569ms
+Power of 2: 51.222448ms
+Sigmoid: 22.905921ms
+Tanh: 34.538125ms
+Multiplication by 2: 7.053777ms
+Sum: 2.543918ms
+Power of 2: 52.197701ms
+Sigmoid: 22.872709ms
+Tanh: 35.194438ms
+Multiplication by 2: 7.090176ms
+Sum: 2.48522ms
+Power of 2: 51.897219ms
+Sigmoid: 23.048952ms
+Tanh: 34.789243ms
+Multiplication by 2: 6.963093ms
+Sum: 2.464678ms
+Power of 2: 70.573136ms
+Sigmoid: 23.081092ms
+Tanh: 34.276939ms
+Multiplication by 2: 7.092692ms
+Sum: 2.459158ms
+Power of 2: 51.531755ms
+Sigmoid: 22.90759ms
+Tanh: 34.960106ms
+Multiplication by 2: 6.890018ms
+Sum: 2.456659ms
+Power of 2: 51.740457ms
+Sigmoid: 22.880388ms
+Tanh: 34.440079ms
+Multiplication by 2: 6.970377ms
+Sum: 2.46342ms
+Power of 2: 51.555722ms
+Sigmoid: 22.934554ms
+Tanh: 34.505945ms
+Multiplication by 2: 7.29307ms
+Sum: 2.48872ms
+Power of 2: 52.195456ms
+Sigmoid: 23.234304ms
+Tanh: 34.583766ms
+Multiplication by 2: 7.137062ms
+Sum: 2.547124ms
+Power of 2: 55.479404ms
+Sigmoid: 23.279706ms
+Tanh: 34.943319ms
+Multiplication by 2: 7.208383ms
+Sum: 2.578242ms
+Power of 2: 71.287011ms
+Sigmoid: 23.546296ms
+Tanh: 34.828391ms
+Multiplication by 2: 7.177818ms
+Sum: 2.563515ms
+Power of 2: 51.64198ms
+Sigmoid: 23.219659ms
+Tanh: 34.330616ms
+Multiplication by 2: 7.084115ms
+Sum: 2.531675ms
+Power of 2: 51.692099ms
+Sigmoid: 23.094812ms
+Tanh: 34.814867ms
+Multiplication by 2: 7.095101ms
+Sum: 2.434419ms
+Power of 2: 51.796645ms
+Sigmoid: 22.952544ms
+Tanh: 35.093761ms
+Multiplication by 2: 6.947153ms
+Sum: 2.471238ms
+Power of 2: 53.296509ms
+Sigmoid: 22.926131ms
+Tanh: 34.480997ms
+Multiplication by 2: 7.137946ms
+Sum: 2.587353ms
+Power of 2: 51.779544ms
+Sigmoid: 23.257072ms
+Tanh: 34.789756ms
+Multiplication by 2: 6.944712ms
+Sum: 2.474606ms
+Power of 2: 71.333695ms
+Sigmoid: 22.954482ms
+Tanh: 34.48191ms
+Multiplication by 2: 7.017955ms
+Sum: 2.480223ms
+Power of 2: 51.96329ms
+Sigmoid: 22.937558ms
+Tanh: 34.265135ms
+Multiplication by 2: 6.936161ms
+Sum: 2.421643ms
+Power of 2: 51.409833ms
+Sigmoid: 22.920614ms
+Tanh: 34.459323ms
+Multiplication by 2: 6.962162ms
+Sum: 2.451809ms
+Power of 2: 51.52376ms
+Sigmoid: 22.952654ms
+Tanh: 34.321879ms
+Multiplication by 2: 7.506177ms
+Sum: 2.484161ms
+Power of 2: 52.870877ms
+Sigmoid: 22.902254ms
+Tanh: 34.573191ms
+Multiplication by 2: 7.029608ms
+Sum: 2.432132ms
+Power of 2: 52.579895ms
+Sigmoid: 23.119088ms
+Tanh: 34.698507ms
+Multiplication by 2: 7.017925ms
+Sum: 2.55353ms
+Power of 2: 70.203582ms
+Sigmoid: 22.895783ms
+Tanh: 34.531253ms
+Multiplication by 2: 5.542996ms
+Sum: 2.182005ms
+Power of 2: 51.547736ms
+Sigmoid: 22.790396ms
+Tanh: 34.055198ms
+Multiplication by 2: 5.474402ms
+Sum: 2.226342ms
+Power of 2: 51.913762ms
+Sigmoid: 23.261664ms
+Tanh: 33.969821ms
+Multiplication by 2: 5.503248ms
+Sum: 2.202532ms
+Power of 2: 51.819498ms
+Sigmoid: 22.72262ms
+Tanh: 34.30775ms
+Multiplication by 2: 5.715528ms
+Sum: 2.244657ms
+Power of 2: 54.651167ms
+Sigmoid: 22.798166ms
+Tanh: 34.017048ms
+Multiplication by 2: 5.504989ms
+Sum: 2.199102ms
+Power of 2: 51.609121ms
+Sigmoid: 23.042001ms
+Tanh: 34.234693ms
+Multiplication by 2: 5.442379ms
+Sum: 2.189943ms
+Power of 2: 51.045534ms
+Sigmoid: 37.377359ms
+Tanh: 36.980972ms
+Multiplication by 2: 5.482031ms
+Sum: 2.178618ms
+Power of 2: 51.300944ms
+Sigmoid: 27.842676ms
+Tanh: 33.873303ms
+Multiplication by 2: 5.435757ms
+Sum: 2.169656ms
+Power of 2: 51.059572ms
+Sigmoid: 22.996288ms
+Tanh: 34.002754ms
+Multiplication by 2: 5.507042ms
+Sum: 2.195786ms
+Power of 2: 51.898649ms
+Sigmoid: 22.946718ms
+Tanh: 34.273997ms
+Multiplication by 2: 5.765172ms
+Sum: 2.240789ms
+Power of 2: 51.800444ms
+Sigmoid: 22.820229ms
+Tanh: 34.016057ms
+Multiplication by 2: 5.532543ms
+Sum: 2.228676ms
+Power of 2: 51.929757ms
+Sigmoid: 23.017136ms
+Tanh: 34.281471ms
+Multiplication by 2: 5.493746ms
+Sum: 2.21157ms
+Power of 2: 51.35739ms
+Sigmoid: 22.782715ms
+Tanh: 51.688837ms
+Multiplication by 2: 5.517246ms
+Sum: 2.178972ms
+Power of 2: 51.39232ms
+Sigmoid: 23.084675ms
+Tanh: 34.127875ms
+Multiplication by 2: 5.455464ms
+Sum: 2.198679ms
+Power of 2: 51.080935ms
+Sigmoid: 23.103217ms
+Tanh: 34.103837ms
+Multiplication by 2: 5.488255ms
+Sum: 2.186432ms
+Power of 2: 51.685099ms
+Sigmoid: 22.750552ms
+Tanh: 34.087425ms
+Multiplication by 2: 5.468652ms
+Sum: 2.183822ms
+Power of 2: 52.026454ms
+Sigmoid: 22.78712ms
+Tanh: 34.039945ms
+Multiplication by 2: 5.555826ms
+Sum: 2.201374ms
+Power of 2: 51.637377ms
+Sigmoid: 22.945385ms
+Tanh: 34.224656ms
+Multiplication by 2: 5.559095ms
+Sum: 2.225326ms
+Power of 2: 51.257144ms
+Sigmoid: 22.699199ms
+Tanh: 33.902666ms
+Multiplication by 2: 5.490412ms
+Sum: 2.292407ms
+Power of 2: 51.418242ms
+Sigmoid: 22.803629ms
+Tanh: 33.984791ms
+Multiplication by 2: 5.452546ms
+Sum: 2.234192ms
+Power of 2: 51.311821ms
+Sigmoid: 22.834845ms
+Tanh: 34.238142ms
+Multiplication by 2: 5.62145ms
+Sum: 2.205849ms
+Power of 2: 51.500425ms
+Sigmoid: 22.755078ms
+Tanh: 34.322421ms
+Multiplication by 2: 5.470132ms
+Sum: 2.18865ms
+Power of 2: 54.738457ms
+Sigmoid: 22.789284ms
+Tanh: 33.988687ms
+Multiplication by 2: 5.637926ms
+Sum: 2.243615ms
+Power of 2: 51.719518ms
+Sigmoid: 23.03277ms
+Tanh: 34.229121ms
+Multiplication by 2: 5.504414ms
+Sum: 2.22302ms
+Power of 2: 51.310331ms
+Sigmoid: 22.776696ms
+Tanh: 34.142632ms
+Multiplication by 2: 5.512236ms
+Sum: 2.214253ms
+Power of 2: 68.734655ms
+Sigmoid: 22.737207ms
+Tanh: 33.965104ms
+Multiplication by 2: 5.954987ms
+Sum: 2.299342ms
+Power of 2: 51.235909ms
+Sigmoid: 23.17045ms
+Tanh: 34.262432ms
+Multiplication by 2: 5.491717ms
+Sum: 2.192234ms
+Power of 2: 51.39533ms
+Sigmoid: 22.783303ms
+Tanh: 34.240206ms
+Multiplication by 2: 5.457347ms
+Sum: 2.172087ms
+Power of 2: 53.99635ms
+Sigmoid: 22.827395ms
+Tanh: 33.983834ms
+Multiplication by 2: 5.496733ms
+Sum: 2.233671ms
+Power of 2: 51.642567ms
+Sigmoid: 22.868891ms
+Tanh: 34.289401ms
+Multiplication by 2: 5.491547ms
+Sum: 2.203046ms
+Power of 2: 51.264757ms
+Sigmoid: 22.761062ms
+Tanh: 34.114928ms
+Multiplication by 2: 5.482868ms
+Sum: 2.21935ms
+Power of 2: 71.435031ms
+Sigmoid: 23.234129ms
+Tanh: 35.039669ms
+Multiplication by 2: 7.156989ms
+Sum: 2.551089ms
+Power of 2: 52.511828ms
+Sigmoid: 23.270633ms
+Tanh: 35.233275ms
+Multiplication by 2: 7.341831ms
+Sum: 2.662622ms
+Power of 2: 52.624295ms
+Sigmoid: 23.582026ms
+Tanh: 35.412858ms
+Multiplication by 2: 7.5072ms
+Sum: 2.715631ms
+Power of 2: 53.170769ms
+Sigmoid: 23.393505ms
+Tanh: 34.445551ms
+Multiplication by 2: 7.198949ms
+Sum: 2.538985ms
+Power of 2: 52.911256ms
+Sigmoid: 23.224211ms
+Tanh: 35.140847ms
+Multiplication by 2: 7.334432ms
+Sum: 2.581099ms
+Power of 2: 52.158732ms
+Sigmoid: 23.221624ms
+Tanh: 34.664856ms
+Multiplication by 2: 7.113042ms
+Sum: 2.739708ms
+Power of 2: 75.66118ms
+Sigmoid: 23.119056ms
+Tanh: 34.749353ms
+Multiplication by 2: 7.118372ms
+Sum: 2.475835ms
+Power of 2: 52.658262ms
+Sigmoid: 23.099026ms
+Tanh: 34.62393ms
+Multiplication by 2: 6.938984ms
+Sum: 2.429129ms
+Power of 2: 53.229139ms
+Sigmoid: 23.341299ms
+Tanh: 34.795716ms
+Multiplication by 2: 7.182229ms
+Sum: 2.603832ms
+Power of 2: 52.420226ms
+Sigmoid: 23.397887ms
+Tanh: 35.063182ms
+Multiplication by 2: 6.942496ms
+Sum: 2.568156ms
+Power of 2: 52.906824ms
+Sigmoid: 23.296162ms
+Tanh: 35.091599ms
+Multiplication by 2: 7.018291ms
+Sum: 2.495329ms
+Power of 2: 52.912302ms
+Sigmoid: 23.129006ms
+Tanh: 34.655101ms
+Multiplication by 2: 6.964249ms
+Sum: 2.552456ms
+Power of 2: 70.935765ms
+Sigmoid: 23.051544ms
+Tanh: 34.607258ms
+Multiplication by 2: 7.177154ms
+Sum: 2.584816ms
+Power of 2: 52.118664ms
+Sigmoid: 23.056691ms
+Tanh: 35.069849ms
+Multiplication by 2: 7.08327ms
+Sum: 2.547552ms
+Power of 2: 52.763448ms
+Sigmoid: 23.084554ms
+Tanh: 36.140674ms
+Multiplication by 2: 7.117158ms
+Sum: 2.669415ms
+Power of 2: 52.798669ms
+Sigmoid: 23.10065ms
+Tanh: 35.200269ms
+Multiplication by 2: 6.991929ms
+Sum: 2.5714ms
+Power of 2: 52.695583ms
+Sigmoid: 23.149559ms
+Tanh: 35.126776ms
+Multiplication by 2: 7.0142ms
+Sum: 2.503046ms
+Power of 2: 52.467345ms
+Sigmoid: 23.100219ms
+Tanh: 34.99966ms
+Multiplication by 2: 7.193769ms
+Sum: 2.601006ms
+Power of 2: 68.389562ms
+Sigmoid: 26.308433ms
+Tanh: 34.38438ms
+Multiplication by 2: 7.050867ms
+Sum: 2.56438ms
+Power of 2: 51.921967ms
+Sigmoid: 23.209577ms
+Tanh: 34.680871ms
+Multiplication by 2: 7.246172ms
+Sum: 2.59722ms
+Power of 2: 53.290158ms
+Sigmoid: 23.545599ms
+Tanh: 34.635384ms
+Multiplication by 2: 7.045616ms
+Sum: 2.449707ms
+Power of 2: 52.958964ms
+Sigmoid: 23.353559ms
+Tanh: 34.971126ms
