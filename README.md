@@ -3,11 +3,12 @@
 ## Tested languages
 
 ```yaml
-- cpp: 4.2.1
+- cpp:
+  - g++: 8.3.0-r0
 - golang: 1.11
 - python: 3.7.4
   - numpy: 1.17.2
-- R: 3.5.0
+- R: 3.6.1
 ```
 
 ## Benchmark procedure
