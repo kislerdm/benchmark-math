@@ -10,7 +10,9 @@ float sigmoid(int arg) {
 }
 
 float tanh(int arg) {
-    return (exp(arg) - exp(-arg))/(exp(arg) + exp(-arg));
+    float a1 = exp(arg);
+    float a2 = exp(-arg);
+    return (a1 - a2)/(a1 + a2);
 }
 
 int main() {

@@ -5,7 +5,6 @@ sigmoid <- function(arg) {
 tanh <- function(arg) {
   arg1 <- exp(arg)
   arg2 <- exp(-arg)
-
   return ( (arg1 - arg2)/(arg1 + arg2) )
 }
 

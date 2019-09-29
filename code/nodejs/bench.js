@@ -13,7 +13,9 @@ function sigmoid(arg) {
 }
 
 function tanh(arg) {
-  return (Math.exp(arg) - Math.exp(-arg)) / (Math.exp(arg) + Math.exp(-arg))
+  let a1 = Math.exp(arg)
+  let a2 = Math.exp(-arg)
+  return (a1 - a2) / (a1 + a2)
 }
 
 

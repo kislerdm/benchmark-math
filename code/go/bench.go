@@ -12,7 +12,9 @@ func sigmoid(arg float64) float64 {
 }
 
 func tanh(arg float64) float64 {
-	return (math.Exp(arg) - math.Exp(-arg)) / (math.Exp(arg) + math.Exp(-arg))
+	a1 := math.Exp(arg)
+	a2 := math.Exp(-arg)
+	return (a1 - a2) / (a1 + a2)
 }
 
 func main() {
