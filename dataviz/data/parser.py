@@ -6,7 +6,7 @@ from typing import List
 import numpy as np
 
 
-PATH_RESULTS = os.path.join(os.getcwd(), "../benchmark/results")
+PATH_RESULTS = os.path.join(os.getcwd(), "../../benchmark/results")
 PATH_OUTPUT = os.path.join(os.getcwd(), "data.json")
 OPERATIONS = ["Multiplication by 2", "Sum",
               "Power of 2", "Sigmoid", "Tanh"]
@@ -49,21 +49,24 @@ if __name__ == "__main__":
         print(f"No files found in {PATH_RESULTS}")
         sys.exit(0)
 
-    output = {}
-    
+    inpt = {}
+
     for file in files:
         try:
-          with open(os.path.join(PATH_RESULTS, file), 'r') as f:
-              data = f.read()
-              
+            with open(os.path.join(PATH_RESULTS, file), 'r') as f:
+                data = f.read()
+
         except Exception as e:
-          print(f"Cannot read {file}. Error:\n{e}")
-          continue
+            print(f"Cannot read {file}. Error:\n{e}")
+            continue
 
         key = ''.join(file.split('.txt')[:-1])
 
-        output[key] = {operation: box_plot_data(parser(data, operation))
-                       for operation in OPERATIONS}
+        inpt[key] = {operation: box_plot_data(parser(data, operation))
+                     for operation in OPERATIONS}
+
+    output = {operation: {key: inpt[key][operation] for key in inpt.keys() if operation in inpt[key].keys()}
+              for operation in OPERATIONS}
 
     with open(PATH_OUTPUT, 'w') as f:
-      json.dump(output, f)
+        json.dump(output, f)
