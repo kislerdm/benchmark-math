@@ -10,7 +10,10 @@ PATH_RESULTS = os.path.join(os.getcwd(), "../../benchmark/results")
 PATH_OUTPUT = os.path.join(os.getcwd(), "data.json")
 OPERATIONS = ["Multiplication by 2", "Sum",
               "Power of 2", "Sigmoid", "Tanh"]
+LANGUAGES = ["cpp", "go", "nodejs",
+             "py_vanila", "py_numpy", "r"]
 UNIT = 'ms'
+FILE_SUFF = ".txt"
 
 
 def parser(string: str, token: str) -> List[float]:
@@ -43,7 +46,8 @@ if __name__ == "__main__":
     assert os.path.isdir(PATH_RESULTS), \
         f"Results path {PATH_RESULTS} doesn't exist"
 
-    files = [i for i in os.listdir(PATH_RESULTS) if i.endswith('.txt')]
+    files = [i for i in LANGUAGES if i in [
+        i.split(FILE_SUFF)[:-1][0] for i in os.listdir(PATH_RESULTS) if i.endswith(FILE_SUFF)]]
 
     if len(files) == 0:
         print(f"No files found in {PATH_RESULTS}")
@@ -53,19 +57,17 @@ if __name__ == "__main__":
 
     for file in files:
         try:
-            with open(os.path.join(PATH_RESULTS, file), 'r') as f:
+            with open(os.path.join(PATH_RESULTS, f"{file}{FILE_SUFF}"), 'r') as f:
                 data = f.read()
 
         except Exception as e:
             print(f"Cannot read {file}. Error:\n{e}")
             continue
 
-        key = ''.join(file.split('.txt')[:-1])
+        inpt[file] = {operation: box_plot_data(
+            parser(data, operation)) for operation in OPERATIONS}
 
-        inpt[key] = {operation: box_plot_data(parser(data, operation))
-                     for operation in OPERATIONS}
-
-    output = {operation: {key: inpt[key][operation] for key in inpt.keys() if operation in inpt[key].keys()}
+    output = {operation: {file: inpt[file][operation] for file in inpt.keys() if operation in inpt[file].keys()}
               for operation in OPERATIONS}
 
     with open(PATH_OUTPUT, 'w') as f:
