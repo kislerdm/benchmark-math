@@ -36,7 +36,7 @@ instance:
   - ram: 1.7G
 ```
 
-# Result (WIP)
+# Results
 
 ## Multiplication by 2
 
