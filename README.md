@@ -38,6 +38,7 @@ instance:
 
 # Results
 
+Timing meadian values in ms
 | |cpp|go|nodejs|py_vanila|py_numpy|r|
 |:---|---:|---:|---:|---:|---:|---:|
 |Multiplication by 2|7.26|6.98|45.39|113.95|3.42|5.73|
