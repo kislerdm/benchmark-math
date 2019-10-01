@@ -38,7 +38,7 @@ instance:
 
 # Results
 
-Timing meadian values in ms
+Timing median values in ms
 
 | |cpp|go|nodejs|py_vanila|py_numpy|r|
 |:---|---:|---:|---:|---:|---:|---:|
