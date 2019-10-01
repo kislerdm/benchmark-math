@@ -1,4 +1,4 @@
-# Math pperations benchmark
+# Math operations benchmark
 
 ## Tested languages
 
@@ -37,6 +37,14 @@ instance:
 ```
 
 # Results
+
+| |cpp|go|nodejs|py_vanila|py_numpy|r|
+|:---|---:|---:|---:|---:|---:|---:|
+|Multiplication by 2|7.26|6.98|45.39|113.95|3.42|5.73|
+|Sum|6.41|2.48|8.26|52.72|6.45|27.56|
+|Power of 2|12.32|51.92|7.66|758.63|4.18|6.1|
+|Sigmoid|56.93|23.02|47.34|718.13|27.79|15.61|
+|Tanh|106.81|34.4|51.79|857.08|59.69|49.03|
 
 ## Multiplication by 2
 
